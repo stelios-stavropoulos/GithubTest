@@ -2,6 +2,9 @@
 {
     public class Student
     {
-        
+        void printName()
+        {
+            
+        }
     }
 }
