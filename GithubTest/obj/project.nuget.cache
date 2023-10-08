@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "II87CbbB5ibVO+gfu/MnEfdMWUAVGwzNltvvfQ2rEF0skkr4pcUL3yUTqRy8LONdbZYJin6IpKW/E/IC9HFQIg==",
+  "success": true,
+  "projectFilePath": "F:\\Unreal Engine Projects\\GitHub\\GithubTest\\GithubTest\\GithubTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stelios\\.nuget\\packages\\nunit\\2.6.4\\nunit.2.6.4.nupkg.sha512",
+    "C:\\Users\\Stelios\\.nuget\\packages\\xamarin.uitest\\2.2.4\\xamarin.uitest.2.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}
